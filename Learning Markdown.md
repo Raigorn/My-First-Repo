@@ -18,11 +18,15 @@ This is an H2 using Setext
 > Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
 > id sem consectetuer libero luctus adipiscing.
 
+- - -
+
 > This is the first level of quoting.
 >
 > > This is nested blockquote.
 >
 > Back to the first level.
+
+- - -
 
 > ## This is a header.
 > 
@@ -32,6 +36,8 @@ This is an H2 using Setext
 > Here's some example code:
 > 
 >     return somethingsomething("code");
+
+- - -
 
 *   Red
 *   Green
