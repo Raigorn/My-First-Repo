@@ -36,7 +36,7 @@ This repository serves as a text based representation with version control of th
 * [ ] ELEMENTAL ENERGY
 * [ ] SHADOW OF INFINITY
 * [ ] ENEMY OF JUSTICE
-* .
+
 * [ ] RISE OF DESTINY: SPECIAL EDITION
 * [x] THE LOST MILLENNIUM: SPECIAL EDITION
 * [x] ELEMENTAL ENERGY: SPECIAL EDITION
@@ -51,7 +51,7 @@ This repository serves as a text based representation with version control of th
 * [ ] GLADIATOR'S ASSAULT
 * [ ] PHANTOM DARKNESS
 * [ ] LIGHT OF DESTRUCTION
-* .
+
 * [ ] STRIKE OF NEOS: SPECIAL EDITION
 * [x] FORCE OF THE BREAKER: SPECIAL EDITION
 * [x] TACTICAL EVOLUTION: SPECIAL EDITION
