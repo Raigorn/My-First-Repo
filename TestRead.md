@@ -36,11 +36,12 @@ This repository serves as a text based representation with version control of th
 * [ ] ELEMENTAL ENERGY
 * [ ] SHADOW OF INFINITY
 * [ ] ENEMY OF JUSTICE
-
+<p>
 * [ ] RISE OF DESTINY: SPECIAL EDITION
 * [x] THE LOST MILLENNIUM: SPECIAL EDITION
 * [x] ELEMENTAL ENERGY: SPECIAL EDITION
 * [x] SHADOW OF INFINITY: SPECIAL EDITION
+</p>
 
 #### Series 5
 * [ ] POWER OF THE DUELIST
