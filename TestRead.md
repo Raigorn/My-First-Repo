@@ -24,7 +24,7 @@ This repository serves as a text based representation with version control of th
 * [x] DARK CRISIS
 * [x] INVASION OF CHAOS
 * [x] ANCIENT SANCTUARY
-- ...
+* ..
 * [x] INVASION OF CHAOS: SPECIAL EDITION
 
 #### Series 4
@@ -36,12 +36,11 @@ This repository serves as a text based representation with version control of th
 * [ ] ELEMENTAL ENERGY
 * [ ] SHADOW OF INFINITY
 * [ ] ENEMY OF JUSTICE
-<p>
+- ..
 * [ ] RISE OF DESTINY: SPECIAL EDITION
 * [x] THE LOST MILLENNIUM: SPECIAL EDITION
 * [x] ELEMENTAL ENERGY: SPECIAL EDITION
 * [x] SHADOW OF INFINITY: SPECIAL EDITION
-</p>
 
 #### Series 5
 * [ ] POWER OF THE DUELIST
@@ -52,7 +51,7 @@ This repository serves as a text based representation with version control of th
 * [ ] GLADIATOR'S ASSAULT
 * [ ] PHANTOM DARKNESS
 * [ ] LIGHT OF DESTRUCTION
-
+* ..
 * [ ] STRIKE OF NEOS: SPECIAL EDITION
 * [x] FORCE OF THE BREAKER: SPECIAL EDITION
 * [x] TACTICAL EVOLUTION: SPECIAL EDITION
@@ -69,7 +68,7 @@ This repository serves as a text based representation with version control of th
 * [ ] STARDUST OVERDRIVE
 * [ ] ABSOLUTE POWERFORCE
 * [ ] THE SHINING DARKNESS
-- ...
+- ..
 * [x] THE DUELIST GENESIS: SPECIAL EDITION
 * [x] CROSSROADS OF CHAOS: SPECIAL EDITION
 * [x] CRIMSON CRISIS: SPECIAL EDITION
@@ -87,7 +86,7 @@ This repository serves as a text based representation with version control of th
 * [ ] PHOTON SHOCKWAVE
 * [ ] ORDER OF CHAOS
 * [ ] GALACTIC OVERLORD
-- ...
+- ..
 * [ ] DUELIST REVOLUTION: SPECIAL EDITION
 * [ ] STORM OF RAGNAROK: SPECIAL EDITION
 * [ ] GENERATION FORCE: SPECIAL EDITION
@@ -102,7 +101,7 @@ This repository serves as a text based representation with version control of th
 * [ ] SHADOW SPECTERS
 * [ ] LEGACY OF THE VALIANT
 * [ ] PRIMAL ORIGIN
-- ...
+- ..
 * [ ] RETURN OF THE DUELIST: SPECIAL EDITION
 * [ ] ABYSS RISING: SPECIAL EDITION
 * [ ] COSMO BLAZER: SPECIAL EDITION
@@ -118,7 +117,7 @@ This repository serves as a text based representation with version control of th
 * [ ] CROSSED SOULS
 * [x] CLASH OF REBELLIONS
 * [ ] DIMENSION OF CHAOS
-- ...
+- ..
 * [ ] DUELIST ALLIANCE: DELUXE EDITION
 * [ ] THE NEW CHALLENGERS: SUPER EDITION
 * [ ] SECRETS OF ETERNITY: SUPER EDITION
