@@ -31,7 +31,7 @@ This is an H2 using Setext
 > 
 > Here's some example code:
 > 
->     return shell_exec("echo $input | $markdown_script");
+>     return somethingsomething("code");
 
 *   Red
 *   Green
@@ -52,3 +52,13 @@ This is an H2 using Setext
 <li>McHale</li>
 <li>Parish</li>
 </ol>
+
+* * *
+
+***
+
+*****
+
+- - -
+
+---------------------------------------
