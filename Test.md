@@ -12,7 +12,7 @@ This repository serves as a text based representation with version control of th
 
 ## Set Checklist ##
 
-#### Booster Packs ####
+### Booster Packs ###
 
 ###### Series 1-3/International
 * [x] LEGEND OF BLUE EYES WHITE DRAGON
@@ -127,15 +127,15 @@ This repository serves as a text based representation with version control of th
 
 - - -
 
-#### Packs ####
+### Packs ###
 
-##### Battle Packs
+#### Battle Packs
 * [ ] BATTLE PACK EPIC DAWN
 * [ ] BATTLE PACK 2 WAR OF THE GIANTS ROUND 2
 * [ ] BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS
 * [ ] BATTLE PACK 3 MONSTER LEAGUE
 
-##### Duelist Packs
+#### Duelist Packs
 * [ ] DUELIST PACK - JADEN YUKI
 * [ ] DUELIST PACK - CHAZZ PRINCETON
 * [ ] DUELIST PACK - JADEN YUKI 2
@@ -150,7 +150,7 @@ This repository serves as a text based representation with version control of th
 * [ ] DUELIST PACK - YUSEI 3
 * [ ] DUELIST PACK - CROW
 
-##### Extra Packs
+#### Extra Packs
 * [ ] EXTRA PACK VOLUME 1
 * [ ] EXTRA PACK VOLUME 2
 * [ ] EXTRA PACK VOLUME 3
@@ -159,7 +159,7 @@ This repository serves as a text based representation with version control of th
 * [ ] EXTRA PACK: SWORD OF KNIGHTS
 * [ ] EXTRA PACK: KNIGHTS OF ORDER
 
-##### Gold Series
+#### Gold Series
 * [ ] GOLD SERIES
 * [ ] GOLD SERIES 2009
 * [ ] GOLD SERIES 3
@@ -168,7 +168,7 @@ This repository serves as a text based representation with version control of th
 * [ ] PREMIUM GOLD
 * [ ] PREMIUM GOLD: RETURN OF THE BLING
 
-##### Hidden Arsenal
+#### Hidden Arsenal
 * [ ] HIDDEN ARSENAL 1
 * [ ] HIDDEN ARSENAL 2
 * [ ] HIDDEN ARSENAL 3
@@ -177,7 +177,7 @@ This repository serves as a text based representation with version control of th
 * [ ] HIDDEN ARSENAL 6: OMEGA XYZ
 * [ ] HIDDEN ARSENAL 7: KNIGHT OF STARS
 
-##### Mega Packs
+#### Mega Packs
 * [ ] RA YELLOW MEGA PACK
 * [ ] LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK
 * [ ] LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK
@@ -185,8 +185,7 @@ This repository serves as a text based representation with version control of th
 * [ ] 2014 MEGA-TINS MEGA PACK
 * [ ] LEGENDARY COLLECTION 5D's MEGA PACK
 
-##### Premium Packs
-
+#### Premium Packs
 ###### Japanese
 * [ ] Dark Ceremony Edition
 * [ ] PREMIUM PACK 1
@@ -220,8 +219,7 @@ This repository serves as a text based representation with version control of th
 * [ ] PREMIUM PACK 1
 * [ ] PREMIUM PACK 2
 
-##### Promotion Packs
-
+#### Promotion Packs
 ###### Japanese
 * [ ] PROMOTION PACK 1
 * [ ] PROMOTION PACK 2
@@ -236,7 +234,7 @@ This repository serves as a text based representation with version control of th
 * [ ] PROMOTION PACK 3
 * [ ] PROMOTION PACK 4
 
-##### Other
+#### Other
 * [ ] ANNIVERSARY PACK
 * [ ] BOOSTER SPECIAL: RAGING MASTERS
 * [ ] BOOSTER SPECIAL: TRIBE FORCE
@@ -279,7 +277,7 @@ This repository serves as a text based representation with version control of th
 
 - - -
 
-#### Reprint Sets ####
+### Reprint Sets ###
 
 ###### Japanese
 * [ ] LEGEND OF BLUE EYES WHITE DRAGON
@@ -331,17 +329,23 @@ This repository serves as a text based representation with version control of th
 
 - - -
 
-#### Duel Terminals ####
+### Decks ###
+
+#### Starter Decks
 
 - - -
 
-#### Promotional Cards ####
+### Duel Terminals ###
 
 - - -
 
-#### Special Editions ####
+### Promotional Cards ###
 
-##### Booster Packs
+- - -
+
+### Special Editions ###
+
+#### Booster Packs
 * [x] INVASION OF CHAOS: SPECIAL EDITION
 * [x] RISE OF DESTINY: SPECIAL EDITION
 * [x] THE LOST MILLENNIUM: SPECIAL EDITION
@@ -378,31 +382,31 @@ This repository serves as a text based representation with version control of th
 
 - - -
 
-#### Tournament Packs ####
+### Tournament Packs ###
 
 - - -
 
-#### Tournament Promos ####
+### Tournament Promos ###
 
 - - -
 
-#### Video Games Promos ####
+### Video Games Promos ###
 
 - - -
 
-#### Shonen Jump Promos ####
+### Shonen Jump Promos ###
 
 - - -
 
-#### V Jump Promos ####
+### V Jump Promos ###
 
 - - -
 
-#### V Jump Mail Orders ####
+### V Jump Mail Orders ###
 
 - - -
 
-#### Weekly Shonen Jump Promos ####
+### Weekly Shonen Jump Promos ###
 
 - - -
 - - -
