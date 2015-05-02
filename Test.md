@@ -14,7 +14,7 @@ This repository serves as a text based representation with version control of th
 
 ### Booster Packs
 
-###### Series 1-3/International
+####### Series 1-3/International
 * [x] LEGEND OF BLUE EYES WHITE DRAGON
 * [x] METAL RAIDERS
 * [x] MAGIC/SPELL RULER
@@ -29,7 +29,7 @@ This repository serves as a text based representation with version control of th
 * ..
 * [x] INVASION OF CHAOS: SPECIAL EDITION
 
-###### Series 4
+####### Series 4
 * [x] SOUL OF THE DUELIST
 * [x] RISE OF DESTINY
 * [x] FLAMING ETERNITY
