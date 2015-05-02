@@ -12,7 +12,7 @@ This repository serves as a text based representation with version control of th
 
 ## Set Checklist ##
 
-#### Booster Packs
+#### Booster Packs ####
 
 ###### Series 1-3/International
 * [x] LEGEND OF BLUE EYES WHITE DRAGON
@@ -127,7 +127,7 @@ This repository serves as a text based representation with version control of th
 
 - - -
 
-#### Packs
+#### Packs ####
 
 ##### Battle Packs
 * [ ] BATTLE PACK EPIC DAWN
@@ -169,13 +169,13 @@ This repository serves as a text based representation with version control of th
 * [ ] PREMIUM GOLD: RETURN OF THE BLING
 
 ##### Hidden Arsenal
-* [ ] HIDDEN ARSENAL
+* [ ] HIDDEN ARSENAL 1
 * [ ] HIDDEN ARSENAL 2
 * [ ] HIDDEN ARSENAL 3
-* [ ] HIDDEN ARSENAL 4 TRISHULA'S TRIUMPH
-* [ ] HIDDEN ARSENAL 5 STEELSWARM INVASION
-* [ ] HIDDEN ARSENAL 6 OMEGA XYZ
-* [ ] HIDDEN ARSENAL 7 KNIGHT OF STARS
+* [ ] HIDDEN ARSENAL 4: TRISHULA'S TRIUMPH
+* [ ] HIDDEN ARSENAL 5: STEELSWARM INVASION
+* [ ] HIDDEN ARSENAL 6: OMEGA XYZ
+* [ ] HIDDEN ARSENAL 7: KNIGHT OF STARS
 
 ##### Mega Packs
 * [ ] RA YELLOW MEGA PACK
@@ -186,7 +186,8 @@ This repository serves as a text based representation with version control of th
 * [ ] LEGENDARY COLLECTION 5D's MEGA PACK
 
 ##### Premium Packs
-* Japanese
+
+###### Japanese
 * [ ] Dark Ceremony Edition
 * [ ] PREMIUM PACK 1
 * [ ] PREMIUM PACK 2
@@ -205,7 +206,8 @@ This repository serves as a text based representation with version control of th
 * [ ] PREMIUM PACK 15
 * [ ] PREMIUM PACK 16
 * [ ] PREMIUM PACK 17
-* Korean
+
+###### Korean
 * [ ] PREMIUM PACK 1
 * [ ] PREMIUM PACK 2
 * [ ] PREMIUM PACK 3
@@ -213,19 +215,22 @@ This repository serves as a text based representation with version control of th
 * [ ] PREMIUM PACK 5
 * [ ] PREMIUM PACK 6
 * [ ] PREMIUM PACK 7
-* English
+
+###### English
 * [ ] PREMIUM PACK 1
 * [ ] PREMIUM PACK 2
 
 ##### Promotion Packs
-* Japanese
+
+###### Japanese
 * [ ] PROMOTION PACK 1
 * [ ] PROMOTION PACK 2
 * [ ] PROMOTION PACK 3A
 * [ ] PROMOTION PACK 3B
 * [ ] PROMOTION PACK 4A
 * [ ] PROMOTION PACK 4B
-* Korean
+
+###### Korean
 * [ ] PROMOTION PACK 1
 * [ ] PROMOTION PACK 2
 * [ ] PROMOTION PACK 3
@@ -252,7 +257,7 @@ This repository serves as a text based representation with version control of th
 * [ ] EXPANSION PACK VOL. 2
 * [ ] EXPANSION PACK VOL. 3
 * [ ] EXPANSION PACK VOL. 4
-* [ ] MOVIE PACK
+* [x] MOVIE PACK
 * [ ] MOVIE PACK VOL. 2 (Korean)
 * [x] 3D BONDS BEYOND TIME MOVIE PACK
 * [ ] PROMOTIONAL PACK
@@ -274,19 +279,67 @@ This repository serves as a text based representation with version control of th
 
 - - -
 
-#### Reprint Sets
+#### Reprint Sets ####
+
+###### Japanese
+* [ ] LEGEND OF BLUE EYES WHITE DRAGON
+* [ ] PHANTOM GOD
+* [ ] REVIVAL OF BLACK DEMONS DRAGON
+* [ ] METAL RAIDERS
+* [ ] BOOSTER: R1
+* [ ] BOOSTER: R2
+* [ ] BOOSTER: R3
+* [ ] BOOSTER CHRONICLE
+* [ ] DUELIST LEGACY VOL. 1
+* [ ] DUELIST LEGACY VOL. 2
+* [ ] DUELIST LEGACY VOL. 3
+* [ ] DUELIST LEGACY VOL. 4
+* [ ] DUELIST LEGACY VOL. 5
+* [ ] BEGINNERS EDITION 1
+* [ ] BEGINNERS EDITION 2
+* [ ] EXPERT EDITION VOL. 1
+* [ ] EXPERT EDITION VOL. 2
+* [ ] EXPERT EDITION VOL. 3
+* [ ] EXPERT EDITION VOL. 4
+* [ ] BEGINNERS EDITION <2011> 1
+* [ ] BEGINNERS EDITION <2011> 2
+* [ ] DUELIST EDITION VOL. 1
+* [ ] DUELIST EDITION VOL. 2
+* [ ] DUELIST EDITION VOL. 3
+* [ ] DUELIST EDITION VOL. 4
+
+###### Korean
+* [ ] BEGINNERS EDITION 1
+* [ ] BEGINNERS EDITION 2
+* [ ] HIGHER GRADE PACK 1
+* [ ] HIGHER GRADE PACK 2
+* [ ] HIGHER GRADE PACK 3
+* [ ] HIGHER GRADE PACK 4
+* [ ] PRECIOUS PACKS 1
+* [ ] PRECIOUS PACKS 2
+
+###### TCG
+* [ ] DARK BEGINNING 1
+* [ ] DARK BEGINNING 2
+* [ ] DARK REVELATION 1
+* [ ] DARK REVELATION 2
+* [ ] DARK REVELATION 3
+* [ ] DARK REVELATION 4
+* [ ] RETRO PACK 1
+* [ ] RETRO PACK 2
+* [ ] DARK LEGENDS
 
 - - -
 
-#### Duel Terminals
+#### Duel Terminals ####
 
 - - -
 
-#### Promotional Cards
+#### Promotional Cards ####
 
 - - -
 
-#### Special Editions
+#### Special Editions ####
 
 ##### Booster Packs
 * [x] INVASION OF CHAOS: SPECIAL EDITION
@@ -306,7 +359,7 @@ This repository serves as a text based representation with version control of th
 * [x] RAGING BATTLE: SPECIAL EDITION
 * [x] ANCIENT PROPHECY: SPECIAL EDITION
 * [x] STARDUST OVERDRIVE: SPECIAL EDITION
-* [ ] ABSOLUTE POWERFORCE SPECIAL EDITION
+* [ ] ABSOLUTE POWERFORCE: SPECIAL EDITION
 * [ ] DUELIST REVOLUTION: SPECIAL EDITION
 * [ ] STORM OF RAGNAROK: SPECIAL EDITION
 * [ ] GENERATION FORCE: SPECIAL EDITION
@@ -325,31 +378,31 @@ This repository serves as a text based representation with version control of th
 
 - - -
 
-#### Tournament Packs
+#### Tournament Packs ####
 
 - - -
 
-#### Tournament Promos
+#### Tournament Promos ####
 
 - - -
 
-#### Video Games Promos
+#### Video Games Promos ####
 
 - - -
 
-#### Shonen Jump Promos
+#### Shonen Jump Promos ####
 
 - - -
 
-#### V Jump Promos
+#### V Jump Promos ####
 
 - - -
 
-#### V Jump Mail Orders
+#### V Jump Mail Orders ####
 
 - - -
 
-#### Weekly Shonen Jump Promos
+#### Weekly Shonen Jump Promos ####
 
 - - -
 - - -
@@ -383,17 +436,6 @@ This repository serves as a text based representation with version control of th
 * [ ] NOBLE KNIGHTS OF THE ROUND TABLE BOX SET Power-Up Pack
 * [ ] BATTLE PACK 2 WAR OF THE GIANTS
 * [x] 10th ANNIVERSARY MOVIE
-* [ ] RETRO PACK 2
-* [ ] DARK LEGENDS
-* [ ] RETRO PACK
-* [ ] DARK CRISIS (Reprint)
-* [ ] DARK REVELATION Volume 4
-* [ ] FORCE OF THE BREAKER
-* [ ] DARK REVELATION Volume 3
-* [ ] DARK REVELATION Volume 2
-* [ ] DARK BEGINNING 2
-* [ ] DARK REVELATION Volume 1
-* [ ] DARK BEGINNING 1
 * [ ] FIRE FISTS SPECIAL EDITION
 * [ ] RA YELLOW MEGA PACK SPECIAL EDITION
 * [ ] HIDDEN ARSENAL 5 STEELSWARM INVASION SPECIAL EDITION
@@ -564,6 +606,10 @@ This repository serves as a text based representation with version control of th
 * [ ] DUELIST volume 16 Promotional Card
 * [ ] SHONEN JUMP Promotional Card - January 2006 -
 * [ ] SHONEN JUMP Promotional Card - January 2005 -
+
+
+
+
 * [ ] ASTRAL PACK SIX
 * [ ] CHAMPIONSHIP SERIES 2014
 * [ ] WORLD CHAMPIONSHIP 2014
@@ -655,7 +701,6 @@ This repository serves as a text based representation with version control of th
 * [ ] DEMO DECK
 * [ ] WORLD CHAMPIONSHIP 2010 CARD PACK
 * [ ] Promotional Cards 2
-* [x] MOVIE PACK
 * [ ] Promotional Cards 1
 * [ ] ZEXAL World Duel Carnival Bundles (UK)
 * [x] 5D's WORLD CHAMPIONSHIP 2011 － OVER THE NEXUS － Bundles
@@ -691,10 +736,3 @@ This repository serves as a text based representation with version control of th
 * [x] THE ETERNAL DUELIST SOUL Bundles
 * [x] FORBIDDEN MEMORIES Bundles
 * [x] Dark Duel Stories Bundles
-
-
-
-
-
-
-
