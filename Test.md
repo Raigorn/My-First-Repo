@@ -15,17 +15,17 @@ This repository serves as a text based representation with version control of th
 ### Booster Packs ###
 
 ###### Series 1-3/International
-* [x] (LOB) LEGEND OF BLUE EYES WHITE DRAGON
-* [x] (MRD) METAL RAIDERS
-* [x] (MRL)(SRL) MAGIC/SPELL RULER
-* [x] (PSV) PHARAOH'S SERVANT
-* [x] (LON) LABYRINTH OF NIGHTMARE
-* [x] (LOD) LEGACY OF DARKNESS
-* [x] (PGD) PHARAONIC GUARDIAN
-* [x] (MFC) MAGICIAN'S FORCE
-* [x] (DCR) DARK CRISIS
-* [x] (IOC) INVASION OF CHAOS
-* [x] (AST) ANCIENT SANCTUARY
+* [x] .(LOB) LEGEND OF BLUE EYES WHITE DRAGON
+* [x] .(MRD) METAL RAIDERS
+* [x] .(MRL)(SRL) MAGIC/SPELL RULER
+* [x] .(PSV) PHARAOH'S SERVANT
+* [x] .(LON) LABYRINTH OF NIGHTMARE
+* [x] .(LOD) LEGACY OF DARKNESS
+* [x] .(PGD) PHARAONIC GUARDIAN
+* [x] .(MFC) MAGICIAN'S FORCE
+* [x] .(DCR) DARK CRISIS
+* [x] .(IOC) INVASION OF CHAOS
+* [x] .(AST) ANCIENT SANCTUARY
 
 ###### Series 4
 * [x] (SOD) SOUL OF THE DUELIST
